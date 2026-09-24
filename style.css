@@ -23,18 +23,18 @@ section{
 
 article{
     display:flex;
-    flex-wrap: wrap;
-    justify-content: flex-star;
+    flex-wrap: nowrap;
+    justify-content: center;
 
 }
 
 img{
     border:dashed 1px #000000;
-    margin: 8px;
-    padding:4px;
-    width: 42%;
-    max-width:220px;
-    height: 180px;
+    margin: 4px;
+    padding:2px;
+    
+    width: 13.5%;
+    height: auto;
     object-fit: cover;
 
     
